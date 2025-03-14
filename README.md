@@ -12,7 +12,7 @@ Compiler Design lab programs
  8. [14. Implement Intermediate code generation for simple expressions.]()
  ### for FLAT programs
  9. [1. Design and implement a lexical analyzer for given language using C and the lexical analyzer should ignore redundant spaces, tabs and new lines. ]()
- 10. [Generate YACC specification for a few syntactic categories.]()  
+ 10. [3. Generate YACC specification for a few syntactic categories.]()  
      A. [a. Program to recognize a valid arithmetic expression that uses operator +, – , * and /. ]()  
      B. [b. Program to recognize a valid variable which starts with a letter followed by any number of letters or digits. ]()  
      C. [c. Implementation of Calculator using LEX and YACC]()  
