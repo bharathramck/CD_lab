@@ -1,3 +1,4 @@
+//2. IMPLEMENTATION OF LEXICAL ANALYZER USING LEX TOOL. 
 #include <stdio.h>
 #include<conio.h> 
 #include <ctype.h>
